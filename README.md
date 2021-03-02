@@ -4,6 +4,8 @@
 
 **Trae Configuración de: Menu, Areas de trabajo, Barra, Ventanas, etc.**
 
+**Temas de Rofi:** https://github.com/adi1090x/rofi
+
 ## Previsualización
 Ventanas Flotantes:
 ![Flotante](https://user-images.githubusercontent.com/59105868/109708148-cb7a9600-7b79-11eb-99b3-06638b01378f.png)
@@ -19,7 +21,7 @@ Menu Secundario:
 
 ## Paquetes Necesario:
 ```
-i3 i3lock i3gaps conky picom python rofi dmenu i3block font awesome noto fonts 
+i3 i3lock i3gaps conky picom python rofi dmenu i3block font awesome noto fonts alacritty
 ```
 ## Instalar i3lockmore
 
