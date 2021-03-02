@@ -146,7 +146,7 @@ bar {
 # Clases:                    Borde   Fondo   Texto Indicador Frontera
 client.focused              #C500E8 #9500AF #000000 #FF00F9 #9500AF
 client.focused_inactive     #C500E8 #9500AF #000000 #FF00F9 #9500AF
-client.unfocused            #C500E8 #9500AF #000000 #FF00F9 #9500AF
+client.unfocused            #C500E8 #9500EF #000000 #FF00F9 #9500AF
 client.urgent               #C500E8 #9500AF #000000 #FF00F9 #9500AF
 client.placeholder          #C500E8 #9500AF #000000 #FF00F9 #9500AF
 client.background           #C500E8                                                                         
