@@ -39,3 +39,5 @@ export PATH="/home/USER/.config/i3/i3lock:$PATH"
 ```
 set path = ($path /home/USER/.config/i3/i3lock)
 ```
+# Instalación
+
