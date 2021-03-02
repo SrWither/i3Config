@@ -14,6 +14,9 @@ Ventanas Apiladas:
 Menu:
 ![Rofi](https://user-images.githubusercontent.com/59105868/109708822-a63a5780-7b7a-11eb-9987-b4dd170904cb.png)
 
+Menu Secundario:
+![Rofi2](https://user-images.githubusercontent.com/59105868/109709311-1943ce00-7b7b-11eb-9145-8209b1c0b419.png)
+
 ## Paquetes Necesario:
 ```
 i3 i3lock i3gaps conky picom python rofi dmenu i3block font awesome noto fonts 
