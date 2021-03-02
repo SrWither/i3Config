@@ -1,8 +1,8 @@
 # Introducción
 
-Esta es mi configuración de i3wm.
+**Esta es mi configuración de i3wm.**
 
-Trae Configuración de: Menu, Areas de trabajo, Barra, Ventanas, etc.
+**Trae Configuración de: Menu, Areas de trabajo, Barra, Ventanas, etc.**
 
 ## Previsualización
 
