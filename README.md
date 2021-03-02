@@ -1,6 +1,7 @@
 ## Introducción
 
 Esta es mi configuración de i3wm.
+
 Trae Configuración de: Menu, Areas de trabajo, Barra, Ventanas, etc.
 
 #Paquetes Necesario:
