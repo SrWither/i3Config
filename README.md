@@ -41,7 +41,19 @@ set path = ($path /home/USER/.config/i3/i3lock)
 ```
 # Instalación
 
-**Para instalarlo debes copiar los archivos .wallpaper y .conkyrc en tu Home**
+**Clonamos el repositorio en una carpeta con:**
+```
+git clone https://github.com/SrWither/i3Config.git
+```
+### Automatico
+**Ejecuta el archivo setup.sh y ya quedaría instalado**
+```
+$ sh setup.sh
+Moviendo Archivos...
+Listo!
+```
+### Manual
+**Para instalarlo manualmente debes copiar los archivos .wallpaper y .conkyrc en tu Home**
 
 **Y copiar todo el interior de la carpeta .config, y pegarla en la carpeta .config de tu home**
 
