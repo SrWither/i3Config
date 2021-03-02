@@ -54,7 +54,15 @@ Listo!
 ```
 ### Manual
 **Para instalarlo manualmente debes copiar los archivos .wallpaper y .conkyrc en tu Home**
-
+```
+cp -r .wallpaper $HOME
+```
+```
+cp .conkyrc $HOME
+```
 **Y copiar todo el interior de la carpeta .config, y pegarla en la carpeta .config de tu home**
+```
+cp .config/* $HOME/.config
+```
 
 **Con eso ya quedaría todo configurado.**
