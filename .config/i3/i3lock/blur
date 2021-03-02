@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/home/fadel/.config/i3/i3lock/i3lockmore --blur
