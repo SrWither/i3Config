@@ -1,0 +1,30 @@
+conky.config = {
+    background = false,
+    cpu_avg_samples = 2,
+    no_buffers = true,
+    out_to_console = true,
+    out_to_x = false,
+    own_window = false,
+    update_interval = 1,
+    short_units = true,
+    total_run_times = 0
+};
+
+conky.text = [[
+
+[
+    {"full_text": " ${cpu cpu0}% ", "color":"\#cf6a4c"},
+    {"full_text": " | ", "color":"\#555555"},
+    {"full_text": " $mem","color":"\#cda869"},
+    {"full_text": " | ", "color":"\#555555"},
+    {"full_text": " ${addr ue0}","color":"\#89b859"},                                                        
+    {"full_text": " | ", "color":"\#555555"},
+    {"full_text": " ${addr wlan0}","color":"\#00aaaa"},
+    {"full_text": " | ", "color":"\#555555"},
+    {"full_text": " ${uptime_short} ", "color":"\#838184"},
+    {"full_text": " | ", "color":"\#555555"},
+    {"full_text": " ${time %A  %Y/%m/%d}", "color":"\#00FFED"},
+    {"full_text": "${time %H:%M}", "color":"\#B2FF00"}
+],
+
+]];
