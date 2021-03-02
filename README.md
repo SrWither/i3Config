@@ -41,3 +41,8 @@ set path = ($path /home/USER/.config/i3/i3lock)
 ```
 # Instalación
 
+**Para instalarlo debes copiar los archivos .wallpaper y .conkyrc en tu Home**
+
+**Y copiar todo el interior de la carpeta .config, y pegarla en la carpeta .config de tu home**
+
+**Con eso ya quedaría todo configurado.**
