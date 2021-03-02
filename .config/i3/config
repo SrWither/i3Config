@@ -200,4 +200,4 @@ bindsym Print exec import -window root ~Pictures/screenshots/CapturaDePantalla.p
 exec --no-startup-id feh --bg-fill ~/.config/i3/Wallpaper/City.jpg
 
 #AutoFondoDePantalla
-exec --no-startup-id ~/desarrollos/Theme/main.py
+exec --no-startup-id ~/.config/i3/WallpaperAuto.py
