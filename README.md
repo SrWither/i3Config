@@ -1,6 +1,6 @@
 # Introducción
 
-**Esta es mi configuración de i3wm.**
+**Esta es mi configuración de i3wm para FreeBSD**
 
 **Trae Configuración de: Menu, Areas de trabajo, Barra, Ventanas, etc.**
 
@@ -20,4 +20,22 @@ Menu Secundario:
 ## Paquetes Necesario:
 ```
 i3 i3lock i3gaps conky picom python rofi dmenu i3block font awesome noto fonts 
+```
+## Instalar i3lockmore
+
+Para instalar i3lockmore, hay que añadir un path en la configuración de nuestra shell:
+
+**ZSH**
+```
+PATH=$PATH:/home/USER/.config/i3/i3lock
+```
+
+**BASH - SH**
+```
+export PATH="/home/USER/.config/i3/i3lock:$PATH"
+```
+
+**CSH**
+```
+set path = ($path /home/USER/.config/i3/i3lock)
 ```
