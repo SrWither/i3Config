@@ -21,7 +21,7 @@ Menu Secundario:
 
 ## Paquetes Necesario:
 ```
-i3 i3lock i3gaps conky picom python rofi dmenu i3block font awesome noto fonts alacritty
+i3 i3lock i3gaps conky picom python rofi dmenu i3block font awesome noto fonts alacritty imagemagick
 ```
 ## Instalar i3lockmore
 
