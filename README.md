@@ -19,7 +19,7 @@ Menu:
 Menu Secundario:
 ![Rofi2](https://user-images.githubusercontent.com/59105868/109709311-1943ce00-7b7b-11eb-9145-8209b1c0b419.png)
 
-## Paquetes Necesario:
+## Paquetes Necesarios:
 ```
 i3 i3lock i3gaps conky picom python rofi dmenu i3block font awesome noto fonts alacritty imagemagick
 ```
